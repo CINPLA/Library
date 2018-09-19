@@ -26,9 +26,9 @@ by David Sterratt (Author), Bruce Graham (Author), Andrew Gillies (Author)
  
  - Linear Algebra and Its Applications by Gilbert Strang
  
- - Introduction to Applied MathematicsJan 1, by Gilbert Strang
+ - Introduction to Applied Mathematics, by Gilbert Strang
  
- - Differential Equations and Linear AlgebraJun 4, 2014 by Gilbert Strang
+ - Differential Equations and Linear Algebra, by Gilbert Strang
  
  ## Stats
  - Statistics: A Guide to the Use of Statistical Methods in the Physical by R. J. Barlow
