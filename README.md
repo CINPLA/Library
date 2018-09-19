@@ -90,6 +90,11 @@ by David J.C. MacKay
 
 - The Nonlinear World: Conceptual Analysis and Phenomenology (Springer Series in Synergetics) by Yoshitsugu Oono
 
+ ## Signal Processing
+ - Digital Signal Processing by  by Alan V. Oppenheim and Ronald W. Schafer
+ 
+ - Independent Component Analysis by Aapo Hyvarinen, Erkki Oja, and Juha Karhunen
+
  
  # Wanted
  
