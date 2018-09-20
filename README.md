@@ -44,7 +44,7 @@ by Eugene M. Izhikevich  (Author), Terrence J. Sejnowski
  - Differential Equations and Linear Algebra, by Gilbert Strang
  
  ## Stats
- - Statistics: A Guide to the Use of Statistical Methods in the Physical by R. J. Barlow
+ - Statistics: A Guide to the Use of Statistical Methods in the Physical Sciences by R. J. Barlow
  
  - All of Statistics: A Concise Course in Statistical Inference (Springer Texts in Statistics) by Larry Wasserman
  
