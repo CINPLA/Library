@@ -79,8 +79,7 @@ by Eugene M. Izhikevich  (Author), Terrence J. Sejnowski
  - Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig
  
  ## Complexity and Information Theory
- - Information Theory: A Tutorial Introduction Paperback – February 1, 2015
-by James V Stone  (Author)
+ - Information Theory: A Tutorial Introduction Paperback by James V Stone  (Author)
 
 - Information Theory, Inference and Learning Algorithms
 by David J.C. MacKay
