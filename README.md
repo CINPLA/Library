@@ -53,19 +53,19 @@ by Eugene M. Izhikevich  (Author), Terrence J. Sejnowski
  
  - All of Nonparametric Statistics (Springer Texts in Statistics) by Larry Wasserman
  
- ### Bayesian
+ **Bayesian**
  - Bayesian Data Analysis by Andrew Gelman  (Author), John B. Carlin (Author), Hal S. Stern (Author), David B. Dunson (Author), Aki Vehtari (Author), Donald B. Rubin (Author)
  
  - Statistical Rethinking: A Bayesian Course with Examples in R and Stan by Richard McElreath
  
- ### Causal inference
+ **Causal inference**
  - Causality: Models, Reasoning and Inference by Judea Pearl
  
  - Causal Inference in Statistics: A Primer by Judea Pearl and Madelyn Glymour
 
  - Mostly Harmless Econometrics: An Empiricist's Companion by Joshua D. Angrist and Jörn-Steffen Pischke
  
- ## Analysis
+ **Analysis**
  - Theoretical Foundations of Functional Data Analysis, with an Introduction to Linear Operators (Wiley Series in Probability and Statistics) by Tailen Hsing and Randall Eubank
  
  - Analysis of Neural Data by Kass, Robert E., Eden, Uri, Brown, Emery
