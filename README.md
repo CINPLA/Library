@@ -15,9 +15,6 @@ by David Sterratt (Author), Bruce Graham (Author), Andrew Gillies (Author)
  
  - The Handbook of Brain Theory and Neural Networks (A Bradford Book) by Michael A. Arbib
  
- - Biophysics of Computation: Information Processing in Single Neurons (Computational Neuroscience Series) 1st Edition
-by Christof Koch
-
 - Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting (Computational Neuroscience Series) 
 by Eugene M. Izhikevich  (Author), Terrence J. Sejnowski
 
