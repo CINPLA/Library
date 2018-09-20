@@ -1,6 +1,9 @@
 # Library
 Overview of books for our library
 
+## Neuroscience 
+- Principles of Neural Science, by Eric R. Kandel (Editor), James H. Schwartz (Editor), Thomas M. Jessell (Editor), Steven A. Siegelbaum (Editor), A. J. Hudspeth (Editor)
+
 ## Computational Neuroscience
 - Principles of Computational Modelling in Neuroscience,
 by David Sterratt (Author), Bruce Graham (Author), Andrew Gillies (Author)
@@ -93,6 +96,11 @@ by David J.C. MacKay
  
  - Independent Component Analysis by Aapo Hyvarinen, Erkki Oja, and Juha Karhunen
 
+## Biology
+Life: The Science of Biology, by David E. Sadava (Author), David M. Hillis (Author), H. Craig Heller (Author), May Berenbaum (Author) 
+
+## General
+- The Structure of Scientific Revolutions,  by Thomas S. Kuhn (Author)
  
  # Wanted
  
