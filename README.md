@@ -21,6 +21,8 @@ by Christof Koch
 - Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting (Computational Neuroscience Series) 
 by Eugene M. Izhikevich  (Author), Terrence J. Sejnowski
 
+- Handbook of Neural Activity Measurement by Romain Brette, Alain Destexhe
+
 ## Computational Biology
 
 - Random Walks in Biology by Howard C. Berg
