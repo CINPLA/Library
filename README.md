@@ -97,7 +97,7 @@ by David J.C. MacKay
  - Independent Component Analysis by Aapo Hyvarinen, Erkki Oja, and Juha Karhunen
 
 ## Biology
-Life: The Science of Biology, by David E. Sadava (Author), David M. Hillis (Author), H. Craig Heller (Author), May Berenbaum (Author) 
+- Life: The Science of Biology, by David E. Sadava (Author), David M. Hillis (Author), H. Craig Heller (Author), May Berenbaum (Author) 
 
 ## General
 - The Structure of Scientific Revolutions,  by Thomas S. Kuhn (Author)
