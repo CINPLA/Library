@@ -23,11 +23,31 @@ by Eugene M. Izhikevich  (Author), Terrence J. Sejnowski
 
 - Handbook of Neural Activity Measurement by Romain Brette, Alain Destexhe
 
+- Introduction to Theoretical Neurobiology Vol 1: Linear Cable Theory and Dendritic Structure
+
+- Introduction to Theoretical Neurobiology Vol 2:  Nonlinear and Stochastic Theories
+
+- Modeling in the Neurosciences: From Biological Systems to Neuromimetic Robotics​
+
+- Computational Neuroscience: A Comprehensive Approach
+
+- Mathematics for Neuroscientist
+
+- Mathematical Foundations of Neuroscience
+
+- Waves in Neural Media: From single Neurons to Fields
+
+- Neural Fields: Theory and Applications
+
 ## Computational Biology
 
 - Random Walks in Biology by Howard C. Berg
 
 - Biophysics: Searching for Principles by William Bialek
+
+- Bridging Time Scales: Molecular Simulations for the Next Decade
+
+-  Stochastic Processes in Cell Biology 
 
 ## Math
  - Fourier Analysis: An Introduction (Princeton Lectures in Analysis, Volume 1) by Elias M. Stein and Rami Shakarchi
