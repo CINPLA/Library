@@ -8,6 +8,12 @@ Overview of books for our library
 
 - Neuroscience: Exploring the Brain by Mark F. Bear and Barry W. Connors
 
+# Connectome
+
+- Handbook of Brain Connectivity (Understanding Complex Systems) by Viktor K. Jirsa (Editor), A.R. McIntosh (Editor)
+
+- Coordinated Activity in the Brain: Measurements and Relevance to Brain Function and Behavior (Springer Series in Computational Neuroscience) by Jose Luis Perez Velazquez (Editor), Richard Wennberg (Editor)
+
 ## Computational Neuroscience
 - Principles of Computational Modelling in Neuroscience,
 by David Sterratt (Author), Bruce Graham (Author), Andrew Gillies (Author)
@@ -115,6 +121,32 @@ by David J.C. MacKay
 
 - The Nonlinear World: Conceptual Analysis and Phenomenology (Springer Series in Synergetics) by Yoshitsugu Oono
 
+- Six Degrees: The Science of a Connected Age Reprint Edition
+by Duncan J. Watts  (Author)
+
+- Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life by Albert-Laszlo Barabasi (Author)
+
+- Complexity: A Guided Tour by Melanie Mitchell  (Author)
+
+- Supercooperators: The Mathematics of Evolution, Altruism and Human Behaviour, (Or, Why We Need Each Other to Succeed) by M A Nowak  (Author)
+
+- Graph Theory and Complex Networks: An Introduction Paperback by Maarten van Steen  (Author)
+
+- Networks: An Introduction by Mark Newman (Author)
+
+- Dynamical Processes on Complex Networks by Alain Barrat  (Author), Marc Barthélemy (Author), Alessandro Vespignani  (Author)
+
+- Evolution of Networks: From Biological Nets to the Internet and WWW (Physics) 1st Edition
+by S. N. Dorogovtsev (Author), J.F.F. Mendes (Author)
+
+- Graph Spectra for Complex Networks by Piet Van Mieghem
+
+- The Structure of Complex Networks: Theory and Applications Reprint Edition
+by Ernesto Estrada  (Author)
+
+- Networks of the Brain (MIT Press) 1st Edition
+by Olaf Sporns  (Author)
+
  ## Signal Processing
  - Digital Signal Processing by  by Alan V. Oppenheim and Ronald W. Schafer
  
@@ -125,11 +157,11 @@ by David J.C. MacKay
 
 ## General
 - The Structure of Scientific Revolutions,  by Thomas S. Kuhn (Author)
+
+- Sync by Strogatz
  
  # Wanted
  
   - Good book on probability theory
   
   - Brain atlases
-  
-  - Good book on graph theory
