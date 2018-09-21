@@ -131,3 +131,5 @@ by David J.C. MacKay
   - Good book on probability theory
   
   - Brain atlases
+  
+  - Good book on graph theory
