@@ -4,6 +4,10 @@ Overview of books for our library
 ## Neuroscience 
 - Principles of Neural Science, by Eric R. Kandel (Editor), James H. Schwartz (Editor), Thomas M. Jessell (Editor), Steven A. Siegelbaum (Editor), A. J. Hudspeth (Editor)
 
+- Neuroscience by Dale Purves and George J. Augustine
+
+- Neuroscience: Exploring the Brain by Mark F. Bear and Barry W. Connors
+
 ## Computational Neuroscience
 - Principles of Computational Modelling in Neuroscience,
 by David Sterratt (Author), Bruce Graham (Author), Andrew Gillies (Author)
@@ -125,3 +129,5 @@ by David J.C. MacKay
  # Wanted
  
   - Good book on probability theory
+  
+  - Brain atlases
