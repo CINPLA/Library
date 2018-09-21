@@ -8,7 +8,7 @@ Overview of books for our library
 
 - Neuroscience: Exploring the Brain by Mark F. Bear and Barry W. Connors
 
-# Connectome
+## Connectome
 
 - Handbook of Brain Connectivity (Understanding Complex Systems) by Viktor K. Jirsa (Editor), A.R. McIntosh (Editor)
 
