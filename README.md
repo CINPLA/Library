@@ -101,7 +101,7 @@ by Eugene M. Izhikevich  (Author), Terrence J. Sejnowski
  - Analysis of Neural Data by Kass, Robert E., Eden, Uri, Brown, Emery
 
  ## Machine Learning
- - Deep Learning with PythonDec by Francois Chollet
+ - Deep Learning with Python by Francois Chollet
  
  - Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent by Aurélien Géron
  
@@ -130,25 +130,22 @@ by Duncan J. Watts  (Author)
 
 - Supercooperators: The Mathematics of Evolution, Altruism and Human Behaviour, (Or, Why We Need Each Other to Succeed) by M A Nowak  (Author)
 
-- Graph Theory and Complex Networks: An Introduction Paperback by Maarten van Steen  (Author)
+- Graph Theory and Complex Networks: An Introduction by Maarten van Steen  (Author)
 
 - Networks: An Introduction by Mark Newman (Author)
 
 - Dynamical Processes on Complex Networks by Alain Barrat  (Author), Marc Barthélemy (Author), Alessandro Vespignani  (Author)
 
-- Evolution of Networks: From Biological Nets to the Internet and WWW (Physics) 1st Edition
-by S. N. Dorogovtsev (Author), J.F.F. Mendes (Author)
+- Evolution of Networks: From Biological Nets to the Internet and WWW (Physics) by S. N. Dorogovtsev (Author), J.F.F. Mendes (Author)
 
 - Graph Spectra for Complex Networks by Piet Van Mieghem
 
-- The Structure of Complex Networks: Theory and Applications Reprint Edition
-by Ernesto Estrada  (Author)
+- The Structure of Complex Networks: Theory and Applications by Ernesto Estrada  (Author)
 
-- Networks of the Brain (MIT Press) 1st Edition
-by Olaf Sporns  (Author)
+- Networks of the Brain (MIT Press) by Olaf Sporns  (Author)
 
  ## Signal Processing
- - Digital Signal Processing by  by Alan V. Oppenheim and Ronald W. Schafer
+ - Digital Signal Processing by Alan V. Oppenheim and Ronald W. Schafer
  
  - Independent Component Analysis by Aapo Hyvarinen, Erkki Oja, and Juha Karhunen
 
@@ -156,7 +153,7 @@ by Olaf Sporns  (Author)
 - Life: The Science of Biology, by David E. Sadava (Author), David M. Hillis (Author), H. Craig Heller (Author), May Berenbaum (Author) 
 
 ## General
-- The Structure of Scientific Revolutions,  by Thomas S. Kuhn (Author)
+- The Structure of Scientific Revolutions by Thomas S. Kuhn (Author)
 
 - Sync by Strogatz
  
