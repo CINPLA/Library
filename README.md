@@ -59,6 +59,10 @@ by Eugene M. Izhikevich  (Author), Terrence J. Sejnowski
 
 -  Stochastic Processes in Cell Biology 
 
+- Mathematical Biology: I. An Introduction (Interdisciplinary Applied Mathematics) (Pt. 1) by J.D. Murray
+
+- Mathematical Biology II: Spatial Models and Biomedical Applications (Interdisciplinary Applied Mathematics) (v. 2) by J.D. Murray
+
 ## Math
  - Fourier Analysis: An Introduction (Princeton Lectures in Analysis, Volume 1) by Elias M. Stein and Rami Shakarchi
  
