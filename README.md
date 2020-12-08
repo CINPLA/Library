@@ -49,6 +49,8 @@ by Eugene M. Izhikevich  (Author), Terrence J. Sejnowski
 
 - Neural Fields: Theory and Applications
 
+- In Vitro Neuronal Networks: From Culturing Methods to Neuro-Technological Applications
+
 ## Computational Biology
 
 - Random Walks in Biology by Howard C. Berg
